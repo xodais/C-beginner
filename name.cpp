@@ -6,6 +6,7 @@ void swap(float &fx, float &fy);
 void swap(char &cx, char &cy);
 
 int main(){
+    //swaping integers
     int ix, iy;
     float fx , fy;
     char cx, cy;
